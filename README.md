@@ -11,17 +11,24 @@ Meu desejo é tornar um desenvolvedor que possa participar de projetos desde o m
 Também possuo conhecimento em montagem e manutenção de computadores, sistemas operacionais Windows e Linux e sempre aprimorando nos demais campos de conhecimento na área de TI seja para atuar profissionalmente, seja para projetos pessoais.
 
 ### Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kalks-499870197/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalkslucas/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-kalks-499870197/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/kalkslucas/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 ### Habilidades
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,php,mysql,linux,windows" />
+  </a>
+</p>
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalkslucas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=normal) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalkslucas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=normal) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kalkslucas&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=donut-vertical)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kalkslucas&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=donut-vertical)
+
