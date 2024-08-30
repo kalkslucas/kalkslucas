@@ -4,7 +4,7 @@
 
 Apaixonado pela tecnologia desde cedo, possuo facilidade com aprendizagem no mundo de hardware/software tanto realizando diversas pesquisas e estudos em casa quanto em ambientes qualificados, quando cursei eletrônica pelo Senai - Alvimar Carneiro de Rezende em 2018.
 
-Formado em Análise e Desenvolvimento de Sistemas, possuo conhecimentos em linguagens voltadas para o segmento de Desenvolvimento de Sistemas Web utilizando HTML e CSS para marcações e estilo, JavaScript como a principal linguagem de programação e Angular como framework principal sendo estudado e aprimorado constantemente. Voltado para processamento de dados e o próprio desenvolvimento Back-End, também tenho contato com linguagem de programação Java, PHP e modelagem de banco de dados em MySQL.
+Formado em Análise e Desenvolvimento de Sistemas, possuo conhecimentos em linguagens voltadas para o segmento de Desenvolvimento de Sistemas Web utilizando HTML e CSS para marcações e estilo, JavaScript como linguagem de programação voltadas para o Front End, PHP como linguagem de programação voltada ao Back-End e, se tratando de modelagem de banco de dados, MySQL como a linguagem mais utilizada.
 
 Meu desejo é tornar um desenvolvedor que possa participar de projetos desde o momento em que estão sendo analisados todos os requisitos até a fase de testes e implementação, sendo amplamente reconhecido e realizado com o meu trabalho e de toda a equipe!
 
