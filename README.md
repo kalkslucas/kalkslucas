@@ -23,7 +23,7 @@ Também possuo conhecimento em montagem e manutenção de computadores, sistemas
 ### Habilidades
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,php,mysql,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,linux,windows" />
   </a>
 </p>
 
